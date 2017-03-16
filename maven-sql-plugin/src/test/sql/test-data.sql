@@ -4,3 +4,4 @@ INSERT INTO person (name) VALUES ('person-3');
 INSERT INTO person (name) VALUES ('person-4');
 INSERT INTO person (name) VALUES ('person-5');
 INSERT INTO person (name) VALUES ('person-6');
+SELECT * FROM HMKCODE;
